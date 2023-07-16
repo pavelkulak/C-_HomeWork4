@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/HomeWork4/task25/bin/Debug/net7.0/task25
+/home/pavel/Рабочий стол/HomeWork4/task25/bin/Debug/net7.0/task25.deps.json
+/home/pavel/Рабочий стол/HomeWork4/task25/bin/Debug/net7.0/task25.runtimeconfig.json
+/home/pavel/Рабочий стол/HomeWork4/task25/bin/Debug/net7.0/task25.dll
+/home/pavel/Рабочий стол/HomeWork4/task25/bin/Debug/net7.0/task25.pdb
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.dll
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/refint/task25.dll
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.pdb
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache
+/home/pavel/Рабочий стол/HomeWork4/task25/obj/Debug/net7.0/ref/task25.dll

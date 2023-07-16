@@ -1,0 +1,15 @@
+/home/pavel/Рабочий стол/HomeWork4/task27/bin/Debug/net7.0/task27
+/home/pavel/Рабочий стол/HomeWork4/task27/bin/Debug/net7.0/task27.deps.json
+/home/pavel/Рабочий стол/HomeWork4/task27/bin/Debug/net7.0/task27.runtimeconfig.json
+/home/pavel/Рабочий стол/HomeWork4/task27/bin/Debug/net7.0/task27.dll
+/home/pavel/Рабочий стол/HomeWork4/task27/bin/Debug/net7.0/task27.pdb
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.csproj.AssemblyReference.cache
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.GeneratedMSBuildEditorConfig.editorconfig
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.AssemblyInfoInputs.cache
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.AssemblyInfo.cs
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.csproj.CoreCompileInputs.cache
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.dll
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/refint/task27.dll
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.pdb
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/task27.genruntimeconfig.cache
+/home/pavel/Рабочий стол/HomeWork4/task27/obj/Debug/net7.0/ref/task27.dll
